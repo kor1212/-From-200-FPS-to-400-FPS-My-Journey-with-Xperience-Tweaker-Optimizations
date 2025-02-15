@@ -62,7 +62,7 @@ Monitor Refresh Rate: Match in-game FPS cap to your display’s max Hz (e.g., 14
 Malware Scans: Use Malwarebytes to kill hidden resource hogs 3.
 
 📢 Join the Community!
-👉 Download Xperience Tweaker here (MIT Licensed).
+👉 discord.gg/Xperience
 👉 Share your results in the Discord server! Let’s crush lag together 💪.
 
 Disclaimer: Overclocking/undervolting carries risks. Monitor stability with tools like OCCT!
